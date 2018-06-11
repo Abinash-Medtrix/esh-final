@@ -1,0 +1,12 @@
+.greenBG {
+    background: #A5D7D5;
+    min-height: 510px;
+}
+
+
+@media (max-width: 1024px) and (min-width: 768px) and (orientation: portrait) {
+    .footerTop{
+        position: fixed;
+        bottom: 0px;
+    }
+}
